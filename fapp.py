@@ -63,7 +63,7 @@ def main():
     activiteis = ["Home", "Webcam Face Detection", "About"]
     choice = st.sidebar.selectbox("Select Activity", activiteis)
     st.sidebar.markdown(
-        """ Developed by Observant Force Group:
+        """ Developed by Proponent_ds Group:
         Email:- creatrohit9@gmail.com.
         Linkedin:-https://www.linkedin.com/in/rohit-bhadauriya-87757a102/
         Email 2 : arunesh.tamboli4@gmail.com/

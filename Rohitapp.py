@@ -238,9 +238,7 @@ def app_video_filters():
         )
 
     st.markdown(
-        "This demo is based on "
-        "https://github.com/aiortc/aiortc/blob/2362e6d1f0c730a0f8c387bbea76546775ad2fe8/examples/server/server.py#L34. "  # noqa: E501
-        "Many thanks to the project."
+        "Many thanks group members for cumulative effort ."
     )
 
 
@@ -302,9 +300,9 @@ def main():
                   
                   1. Click on the Start button to start.
                  
-                  2. WebCam window will open  automatically. 
+                  2. WebCam window will open automatically. 
 		  
-		          3. It will automatically  predict at that instant.
+		  3. It will automatically predict the emotion at that instant.
                   
                   4. Make sure that camera shouldn't be used by any other app.
                   
@@ -325,14 +323,14 @@ def main():
     </body>
         """
         st.markdown(html_temp, unsafe_allow_html=True)
-        st.write("**Instructions while Checking Camrea**")
+        st.write("**Instructions while Checking Camera**")
         st.write('''
                   
                   1. Click on  Start  to open webcam.
                  
                   2. If you have more than one camera , then select by using select device.
 		  
-		          3. Have some fun with your camera by choosing the options below.
+		  3. Have some fun with your camera by choosing the options below.
                   
                   4. Click on  Stop  to end.
                   
@@ -361,9 +359,10 @@ def main():
             text_input = st.text_input(label='Enter some text')
             submit_button = st.form_submit_button(label='Submit')
         st.write('''
-                  Email:- soumya1999rta@gmail.com.
-                 
-                  Linkedin:-https://www.linkedin.com/in/soumya-ranjan-mishra-715674180/
+                  Email:- creatrohit9@gmail.com.
+                  Linkedin:-https://www.linkedin.com/in/rohit-bhadauriya-87757a102/
+		  Email:- arunesh.tamboli4@gmail.com.
+                  Linkedin:-https://www.linkedin.com/in/arunesh-tamboli-b34399218/
                   
                   ''')
         

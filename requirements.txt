@@ -1,3 +1,4 @@
+install heroku-builds
 absl-py
 altair
 argon2-cffi==20.1.0

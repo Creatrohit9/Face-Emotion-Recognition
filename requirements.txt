@@ -1,4 +1,4 @@
-conda-forge streamlit
+pip install conda-forge streamlit
 absl-py
 altair
 argon2-cffi==20.1.0

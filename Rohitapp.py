@@ -27,7 +27,7 @@ except ImportError:
 # Loading pre-trained parameters for the cascade classifier
 try:
     face_classifier = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml') # Face Detection
-    classifier =load_model('Final_model.h5')  #Load model
+    classifier =load_model('final_model.h5')  #Load model
     emotion_labels = ['Angry','Disgust','Fear','Happy','Neutral', 'Sad', 'Surprise']  # Emotion that will be predicted
 except Exception:
     st.write("Error loading cascade classifiers")
@@ -369,7 +369,7 @@ def main():
         html_temp = """
     <body style="background-color:red;">
     <div style="background-color:teal ;padding:0.25px">
-    <h2 style="color:white;text-align:center;">Copyright © 2021 | Soumya Ranjan Mishra </h2>
+    <h2 style="color:white;text-align:center;">Copyright © 2021 | Rohit bhadauriya </h2>
     </div>
     </body>
         """

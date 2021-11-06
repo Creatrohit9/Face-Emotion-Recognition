@@ -1,6 +1,6 @@
 # Live Class Monitoring System(Face Emotion Recognition)
 
-![dl sm](https://user-images.githubusercontent.com/86041863/140519059-2fcbed53-4d28-4f33-b905-c648e0c43e9d.jpg)
+
 
 
 ## Problem Statement:
@@ -25,7 +25,7 @@ Here is the dataset link:- https://www.kaggle.com/msambare/fer2013
 ## 1) Using DeepFace
 DeepFace is a deep learning facial recognition system created by a research group at Facebook. It identifies human faces in digital images. The program employs a nine-layer neural network with over 120 million connection weights and was trained on four million images uploaded by Facebook users.The Facebook Research team has stated that the DeepFace method reaches an accuracy of 97.35% ± 0.25% on Labeled Faces in the Wild (LFW) data set where human beings have 97.53%. This means that DeepFace is sometimes more successful than the human beings.
 
-![Andrew-Ng-anger](https://user-images.githubusercontent.com/86041863/140595857-b20e3851-e805-4b1e-bfb9-4a183521e9e9.jpg)
+
 
 • The actual emotion of Andew Ng  is sad Face or using DeepFace I found the prediction is correct as well as his age limit.
 

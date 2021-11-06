@@ -76,6 +76,7 @@ We created patterns for detecting and predicting single faces and as well as mul
 * But due to high slug size the buffering takes time so we have ran our app working on local and it ran properly and app is also fine also we’ve included video on github repo.
 
 Heroku Link:- 
+streamlit link:-https://share.streamlit.io/creatrohit9/face-emotion-recognition/main/Rohitapp.py
 
 # Conclusion:
 

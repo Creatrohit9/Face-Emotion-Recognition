@@ -1,16 +1,4 @@
-numpy
-streamlit
-streamlit_webrtc
-keras
-opencv-contrib-python-headless
-tensorflow
-tensorflow-gpu
-streamlit
-tensorboard
-tensorboard-data-server
-tensorboard-plugin-wit
-tensorflow-cpu
-tensorflow-estimator
+
 absl-py==0.12.0
 altair==4.1.0
 argon2-cffi==20.1.0

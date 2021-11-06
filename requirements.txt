@@ -5,26 +5,11 @@ keras
 opencv-contrib-python-headless
 tensorflow
 tensorflow-gpu
-absl-py
-altair
-argon2-cffi
-astor
-astunparse
-async-generator
-attrs
-backcall
-base58
-bleach
-blinker
-rsa
-Send2Trash
-six
-smmap
 streamlit
 tensorboard
 tensorboard-data-server
 tensorboard-plugin-wit
 tensorflow-cpu
 tensorflow-estimator
-streamlit-webrtc
+
 

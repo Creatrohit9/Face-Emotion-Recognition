@@ -25,9 +25,9 @@ Here is the dataset link:- https://www.kaggle.com/msambare/fer2013
 ## 1) Using DeepFace
 DeepFace is a deep learning facial recognition system created by a research group at Facebook. It identifies human faces in digital images. The program employs a nine-layer neural network with over 120 million connection weights and was trained on four million images uploaded by Facebook users.The Facebook Research team has stated that the DeepFace method reaches an accuracy of 97.35% ± 0.25% on Labeled Faces in the Wild (LFW) data set where human beings have 97.53%. This means that DeepFace is sometimes more successful than the human beings.
 
-![image](https://user-images.githubusercontent.com/60726057/134977261-e2bc5cc1-2b05-49b8-9524-5f5733259376.png)
+![Andrew-Ng-anger](https://user-images.githubusercontent.com/86041863/140595857-b20e3851-e805-4b1e-bfb9-4a183521e9e9.jpg)
 
-• The actual emotion in the Picture was ANGRY Face but using DeepFace I found the prediction is HAPPY.
+• The actual emotion of Andew Ng  is sad Face or using DeepFace I found the prediction is correct as well as his age limit.
 
 ## 2) Xception 
 
@@ -82,13 +82,14 @@ Heroku Link:-
 * We build the WebApp using streamlit and deployed in Heroku and  Streamlit Sharing.
 * The model which was created by custom CNN model gave training accuracy of  77% and test accuracy of 69%.
 * Codes which are deployed are in Github Repository.
+* we did 11  times experiment with diffrent test train split and data normalization beacause we know that for NN large train data set gives better result of model output
 * It was such an amazing and interesting project. We learnt a lot from this.
 
 
 # Some Real Life Experience from thing amazing project
 
-* Understand the deep concept of project.
-* Don't afraid to faliure.
+* Understand the deep concept of project,and feel yes future is with this technique
+* Don't afraid to faliure beacause we invest 80 hr for colab due to limited Gpu for diffrent experimnet 
 * Never Loose Hope.
 * Never Give Up!
 * Have some patience good things happen.

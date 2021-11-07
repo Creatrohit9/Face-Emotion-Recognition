@@ -1,6 +1,6 @@
 
-numpy~=1.21.2
-streamlit~=0.87.0
+numpy
+streamlit
 streamlit_webrtc
 keras
 opencv-contrib-python-headless

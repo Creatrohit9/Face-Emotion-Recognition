@@ -1,3 +1,5 @@
+pip install pip_chill
+pip-chill --no-version 
 numpy~=1.21.2
 streamlit~=0.87.0
 streamlit_webrtc

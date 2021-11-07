@@ -1,9 +1,8 @@
-
-numpy
-streamlit
+numpy~=1.21.2
+streamlit~=0.87.0
 streamlit_webrtc
-keras
+keras~=2.4.3
 opencv-contrib-python-headless
 tensorflow
 tensorflow-gpu
-tensorflow-estimatior
+tensorflow-estimatior==2.1.0

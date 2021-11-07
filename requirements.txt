@@ -1,5 +1,4 @@
 gitignore
-slugignore
 numpy
 streamlit
 streamlit_webrtc

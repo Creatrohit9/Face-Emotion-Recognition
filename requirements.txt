@@ -3,6 +3,6 @@ streamlit~=0.87.0
 streamlit_webrtc
 keras~=2.4.3
 opencv-contrib-python-headless
-tensorflow
+tensorflow==2.0.0
 tensorflow-gpu
 tensorflow-estimatior==2.0.0

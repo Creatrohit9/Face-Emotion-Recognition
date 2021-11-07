@@ -1,4 +1,4 @@
-.gitignore
+gitignore
 slugignore
 numpy
 streamlit

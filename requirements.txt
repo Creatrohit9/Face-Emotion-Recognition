@@ -5,4 +5,4 @@ keras~=2.4.3
 opencv-contrib-python-headless
 tensorflow
 tensorflow-gpu
-tensorflow-estimatior==2.1.0
+tensorflow-estimatior==2.4.0

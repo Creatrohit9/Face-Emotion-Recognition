@@ -267,7 +267,7 @@ def main():
                  
                   2. WebCam window will open  automatically. 
 		  
-		          3. It will automatically throw the image with the prediction at that instant.
+		  3. It will automatically throw the image with the prediction at that instant.
                   
                   4. Make sure that camera shouldn't be used by any other app.
                   
